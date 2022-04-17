@@ -1,0 +1,5 @@
+ install git python3
+git clone https://github.com/termux-lab/smsham.git 
+cd smsham
+python3 smsham.py
+
